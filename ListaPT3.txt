@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+
+<html>
+<body>
+
+<img src="Razgriz1.jpg"style="width:201px;height:251px;"align="middle"hspace="0">
+<p>Com esta página estou mostrando uma forma de colocar texto entre duas figuras</p>
+<img src="Razgriz1.jpg"style="width:201px;height:251px;align="left"hspace="200">
+
+
+</body>
+</html>
